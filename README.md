@@ -1,4 +1,4 @@
-# driving-snitch
+# driver-snitch
 
 ## Introduction
 Do you ever wonder if you are driving around responsible people? Maybe even know if this people have outstanding tickets in their cars?
