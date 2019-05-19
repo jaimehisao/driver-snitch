@@ -5,7 +5,7 @@ Do you ever wonder if you are driving around responsible people? Do you sometime
 Driving Snitch does just that, it reads licence plates and checks a publicly available database to see if the car has any outstanding tickets in a given municipality.
 
 ## How does it work?
-The software scans the cars plates using a front camera and then the software uses Web Scraping to fetch the cars ticket data, this data is then processed and shown to the end user as a video overlay or a text-based output. 
+The software scans the cars plates using a camera and then the software uses Web Scraping to fetch the cars ticket data, this data is then processed and shown to the end user as a video overlay or a text-based output. 
 
 ## Current Project Challenges
 - Be able to accurately detect the plates of cars in front (Only query 80% confidence and above).
