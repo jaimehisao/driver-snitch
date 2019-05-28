@@ -10,7 +10,7 @@ The software scans the cars plates using a camera and then the software uses Web
 ## Current Project Challenges
 - Be able to accurately detect the plates of cars in front (Only query 80% confidence and above).
 - Quickly detect the plates and query them against the database. 
-- Not spam the datbase by querying the same plate over and over again (Think one scan per 24 hour cap per plate).
+- Not spam the datbase by querying the same plate over and over again (Think one query each 24 hours for each plate).
 
 ## Why?
 For no good reason, just as a way to learn about OCR, OpenCV, Python and Web Scraping in a fun and interesting way.
